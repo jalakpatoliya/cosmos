@@ -13,7 +13,7 @@ function bubbleSort(items) {
       }
     }
   }
-  return items;
+  return items; //return item
 }
 // var collections = [9, 4, 5, 2, 1, 6, 7, 0, 3];
 // bubbleSort(collections);
